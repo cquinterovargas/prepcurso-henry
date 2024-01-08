@@ -1,2 +1,2 @@
-# prepcurso-henry
-este es un repositorio del modulo2 del precurso de henry
+christian fernando quintero vargas
+Este es un proyecto de prueba de como crear un repositorio y clonarlo desde githab a mi escritorio local
